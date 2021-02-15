@@ -1,4 +1,0 @@
-# install for pyne on linux
-# make sure to put .condarc in home space
-# recommended to update all the packages first
-conda install -c conda-forge pyne=0.5.3
